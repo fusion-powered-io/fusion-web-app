@@ -64,5 +64,16 @@ button:hover {
 button:active {
     box-shadow: none;
 }
+@media (max-width: 600px) {.logo-container {
+    left: 20px;
+    width: 30px;
+    height: 30px;
+}
+}
 
 
+@media (max-width: 600px) { button{
+    font-size: 10px;
+
+}
+}

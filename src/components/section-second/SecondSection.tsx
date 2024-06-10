@@ -3,9 +3,11 @@ import background from './assets/background.mp4';
 import './SecondSection.css';
 
 
+
 const SecondSection = () =>
     <div id="SecondSection">
         <Background/>
+
         <div className="grid-item">
             <video
                 width="100%"

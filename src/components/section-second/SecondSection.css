@@ -35,3 +35,15 @@
     height: 100%;
     border-radius: 10px;
 }
+@media (max-width: 600px) {#SecondSection {
+    height: 50vh;
+    width: 45vh;
+    right: -17%;
+    top: -10%;
+}
+}
+@media (max-width: 600px) {.grid-item  {
+    height: 50px;
+    width: 100px;
+}
+}
